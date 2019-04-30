@@ -11,7 +11,8 @@ Carrion beetles and their food
 ======
 
 <img src="/images/foo-bar-identity.jpg" alt="example"
-	title="Example" width="150" height="100" />
+	title="Example" width="150" height="100"
+  align="right"/>
 
 Carrion beetles (Coleoptera: Silphidae) feed and reproduce on vertebrate (especially mammal) carcasses. I take advantage of this behavior in my work in two ways.
 1. I'm investigating whether food resource partitioning among carrion beetle species may enable their coexistence, and whether their food preferences may be limiting species elevational ranges.
