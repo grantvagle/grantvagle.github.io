@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Grant Vagle"
+title                    : "Grant L. Vagle"
 title_separator          : "-"
-name                     : &name "Grant Vagle"
-description              : &description "Ph.D. student in Ecology and Evolutionary Biology and Interdisciplinary Quantitative Biology"
+name                     : &name "Grant L. Vagle"
+description              : &description "Personal webpage"
 url                      : https://grantvagle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "grantvagle/grantvagle.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "me_in_flannel.jpg"
   bio              : "Ph.D. student in Ecology and Evolutionary Biology and Interdisciplinary Quantitative Biology"
   location         : "Boulder, Colorado"
-  employer         :
+  employer         : "University of Colorado"
   pubmed           :
   googlescholar    : # example "http://yourfullgooglescholarurl.com"
   email            : grant.vagle@colorado.edu
