@@ -33,4 +33,8 @@ Colonial evolution of bryozoans
 
 Colonial organisms live at two hierarchical levels: the individual members and the colony as a whole. This means that there can be selection for or against traits at both the colony level and the member level. This results in an evolutionary tension, as beneficial traits at one level may not be beneficial at the other level.
 
+<img src="/images/bryoz_image.jpg" alt="bryozoan colony"
+	title="Bryozoan" width="150" height="100"
+  align="right"/>
+
 Colonial animals such as ants and honeybees deal with this tension by sterilizing the members of the colony, so that there is no within-colony reproduction besides by the queen. However, in bryozoans, a marine colonial animal, there is asexual member-level reproduction that serves to grow a colony as well as sexual colony-level reproduction. These two levels of reproduction leave the door open for selective pressure at both levels, which can be problematic in evolutionary terms. I investigate (with [Carl Simpson's](http://simpson-carl.github.io) lab in Geosciences) the strategies that bryozoans employ to deal with this evolutionary tension, especially with regards to within-colony heritability of traits.
