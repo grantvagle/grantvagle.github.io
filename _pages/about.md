@@ -15,4 +15,4 @@ I'm a Ph.D. student in the [McCain Mountain Lab](https://spot.colorado.edu/~mcca
 
 <img src="/images/me_at_rainbowlks.jpg" alt="example"
 	title="Example" width="450" height="300"
-  align="right"/>
+  align="center"/>
