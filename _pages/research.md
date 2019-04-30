@@ -24,10 +24,13 @@ To answer these questions, I employ a marker gene sequencing methodology that en
 More-individuals hypothesis simulations
 ======
 
-More on the MIH later...
+The more-individuals hypothesis (MIH) is a proposed mechanism explaining the large scale relationship between primary productivity and species diversity. While the MIH has been tested extensively in observational and experimental studies, the support is quite mixed across the literature. My work uses computer simulations (coded in R) to test whether natural population variation could be masking and underlying MIH relationship. Short answer: it is entirely possible that the MIH is present in nature yet undetected in studies that found no relationship. Long-term studies are required to adequately test the MIH, especially in systems that are prone to relatively high population variability.
+
 
 
 Colonial evolution of bryozoans
 ======
 
-More on bryozoans later too...
+Colonial organisms live at two hierarchical levels: the individual members and the colony as a whole. This means that there can be selection for or against traits at both the colony level and the member level. This results in an evolutionary tension, as beneficial traits at one level may not be beneficial at the other level.
+
+Colonial animals such as ants and honeybees deal with this tension by sterilizing the members of the colony, so that there is no within-colony reproduction besides by the queen. However, in bryozoans, a marine colonial animal, there is asexual member-level reproduction that serves to grow a colony as well as sexual colony-level reproduction. These two levels of reproduction leave the door open for selective pressure at both levels, which can be problematic in evolutionary terms. I investigate (with [Carl Simpson's](http://simpson-carl.github.io) lab in Geosciences) the strategies that bryozoans employ to deal with this evolutionary tension, especially with regards to within-colony heritability of traits.
