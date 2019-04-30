@@ -1,12 +1,12 @@
 ---
 
-permalink: /
+permalink: /research/
 title: "Research"
-excerpt: "About me"
+excerpt:
 author_profile: true
 
 ---
 
-RESEARCH PAGE
+RESEARCH TOPIC 1
 ======
-This is where I provide a summary of my research.
+This is where I provide a summary of my research for topic 1.
