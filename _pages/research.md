@@ -10,7 +10,7 @@ author_profile: true
 Carrion beetles and their food
 ======
 
-<img src="/images/foo-bar-identity.jpg" alt="example"
+<img src="/images/tomentosus.jpg" alt="example"
 	title="Example" width="150" height="100"
   align="right"/>
 
@@ -20,6 +20,15 @@ Carrion beetles (Coleoptera: Silphidae) feed and reproduce on vertebrate (especi
 
 To answer these questions, I employ a marker gene sequencing methodology that enables the identification of mammalian DNA from carrion beetle gut contents.
 
+This work is taking place with specimens from Colorado, across the Front Range, the western San Juans, and Mesa Verde National Park (through a partnership with the CU Museum of Natural History).
+
+<img src="/images/meve_sunset.jpg" alt="Mesa Verde National Park"
+	title="Mesa Verde National Park" width="300" height="200"
+  align="right"/>
+
+<img src="/images/elev_gradients.jpg" alt="Colorado Sites"
+		title="Colorado Sites" width="300" height="200"
+	  align="left"/>
 
 More-individuals hypothesis simulations
 ======
