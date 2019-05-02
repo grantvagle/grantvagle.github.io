@@ -25,7 +25,7 @@ To answer these questions, I employ a marker gene sequencing methodology that en
 This work is taking place with specimens from across the Front Range, the western San Juans, and Mesa Verde National Park (through a partnership with the CU Museum of Natural History).
 
 <figure>
-	<img src="/images/meve_sunset.jpg" alt="Mesa Verde National Park"
+	<img src="/images/meve_bear.jpg" alt="Mesa Verde National Park"
 		title="Mesa Verde National Park" width="300" height="200"
   	align="right"/>
 
