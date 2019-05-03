@@ -23,6 +23,7 @@ To answer these questions, I employ a marker gene sequencing methodology that en
 
 
 This work is taking place with specimens from across the Front Range, the western San Juans, and Mesa Verde National Park (through a partnership with the CU Museum of Natural History).
+This work is funded by the Carl Kisslinger grant from the CU Retired Faculty Association, the CU EBIO department, the CU Museum of Natural History, and the American Society of Mammalogists.
 
 <figure>
 	<!--
