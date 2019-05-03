@@ -25,17 +25,19 @@ To answer these questions, I employ a marker gene sequencing methodology that en
 This work is taking place with specimens from across the Front Range, the western San Juans, and Mesa Verde National Park (through a partnership with the CU Museum of Natural History).
 
 <figure>
-	<img src="/images/meve_bear.jpg" alt="Mesa Verde National Park"
-		title="Mesa Verde National Park" width="300" height="200"
-  	align="right"/>
-
 
 	<figure>
 		<img src="/images/elev_gradients.jpg" alt="Colorado Sites"
 			title="Colorado Sites" width="300" height="200"
 	  	align="left"/>
 			<figcaption> McCain et al. 2018. Journal of Biogeography. </figcaption>
-			</figure>
+	</figure>
+
+	<img src="/images/meve_bear.jpg" alt="Mesa Verde National Park"
+				title="Mesa Verde National Park" width="300" height="200"
+	  		align="right"
+	/>
+
 </figure>
 
 
