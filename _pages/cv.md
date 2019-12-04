@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 <!-- For full CV as a pdf, [click here](http://grantvagle.github.io/files/cv.pdf). -->
-Contact me for a full CV.
+*Contact me for a full CV.*
 
 
 Education
 ======
  Ph.D Student, Ecology and Evolutionary Biology, Interdisciplinary Quantitative Biology, University of Colorado, Boulder
- 
+
  B.A. in Biology and Mathematics, Concordia College - Moorhead, MN, 2017
 
 Publications
@@ -36,15 +36,15 @@ Selected presentations
 
 Teaching experience
 ======
-* University of Colorado, Boulder
-  * Fall 2019 - EBIO 3240 - Animal Behavior TA
-  * Fall 2018 - Developed and implemented a one-day hands-on course for cluster computing with sequence data targeted at computational beginners.
+University of Colorado, Boulder
+* Fall 2019 - Animal Behavior TA - EBIO 3240
+* Fall 2018 - Developed and implemented a one-day hands-on course for cluster computing with sequence data targeted at computational beginners.
 
-* Concordia College - Moorhead, MN
-  * Fall 2016 - Ecology Teaching Assistant - BIOL 221
-  * Fall 2015--Spring 2016 - Calculus I Teaching Assistant - MATH 121
-  * Spring 2015 - Calculus II Teaching Assistant - MATH 122
-  * Fall 2014 - Calculus I Class Tutor - MATH 121
+Concordia College - Moorhead, MN
+* Fall 2016 - Ecology Teaching Assistant - BIOL 221
+* Fall 2015--Spring 2016 - Calculus I Teaching Assistant - MATH 121
+* Spring 2015 - Calculus II Teaching Assistant - MATH 122
+* Fall 2014 - Calculus I Class Tutor - MATH 121
 
 <!-- Funding
 ======
