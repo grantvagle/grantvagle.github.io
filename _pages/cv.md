@@ -8,25 +8,36 @@ redirect_from:
 ---
 
 {% include base_path %}
-For full CV as a pdf, [click here](http://grantvagle.github.io/files/cv.pdf).
+<!-- For full CV as a pdf, [click here](http://grantvagle.github.io/files/cv.pdf). -->
+Contact me for a full CV.
 
 
 Education
 ======
-* Ph.D Student, Ecology and Evolutionary Biology, Interdisciplinary Quantitative Biology, University of Colorado, Boulder
-* B.A. in Biology and Mathematics, Concordia College - Moorhead, MN, 2017
+ Ph.D Student, Ecology and Evolutionary Biology, Interdisciplinary Quantitative Biology, University of Colorado, Boulder
+ 
+ B.A. in Biology and Mathematics, Concordia College - Moorhead, MN, 2017
 
-Selected Presentations
+Publications
 ======
-* Vagle, G. L., and C. M. McCain. Natural population variation may be masking the more-individuals hypothesis. American Society of Mammalogists Annual Meeting, Washington, D.C. 1 July 2019.
-* Vagle, G. Simulating the More-Individuals Hypothesis. Guild of Rocky Mountain Ecologists and Evolutionary Biologists Annual Meeting. 23 September 2018.
-* McCreery, K. P., D. M. Nguyen, S. Nordstrom, M. Smallegan, G. Vagle, C. Walsh, and A. Watson. Do interdisciplinary institutes make science more interdisciplinary? Bioinformatics and Data Science Supergroup, Univ. of Colorado. 2 April 2018.
-* Vagle, G. Colonial evolutionary strategies in a mid-Cretaceous Bryozoan *Wilbertopora listokinae*. Interdisciplinary Quantitative Biology Rotation Talks, Univ. of Colorado. 21 February 2018.
-* Vagle, G., C. Whitten, D. Braund, J. Watson, A. Schulz, and J.C. Whittaker. Comparison of small mammal communities on restored and remnant prairies in northwestern Minnesota. Annual Meeting of the Minnesota Chapter of the Wildlife Society Poster Session. 15 February 2017.
+ Vagle, G. L., and C. M. McCain. *Submitted.* Natural population variability may be masking the more-individuals hypothesis.
 
-Teaching
+Selected presentations
+======
+ **Vagle, G. L.**, and C. M. McCain. Natural population variation may be masking the more-individuals hypothesis. American Society of Mammalogists Annual Meeting, Washington, D.C. 1 July 2019.
+
+ **Vagle, G**. Simulating the more-individuals hypothesis. Guild of Rocky Mountain Ecologists and Evolutionary Biologists Annual Meeting. 23 September 2018.
+
+ McCreery, K. P., D. M. Nguyen, S. Nordstrom, M. Smallegan, **G. Vagle**, C. Walsh, and A. Watson. Do interdisciplinary institutes make science more interdisciplinary? Bioinformatics and Data Science Supergroup, Univ. of Colorado. 2 April 2018.
+
+ **Vagle, G**. Colonial evolutionary strategies in a mid-Cretaceous Bryozoan *Wilbertopora listokinae*. Interdisciplinary Quantitative Biology Rotation Talks, Univ. of Colorado. 21 February 2018.
+
+ **Vagle, G**., C. Whitten, D. Braund, J. Watson, A. Schulz, and J.C. Whittaker. Comparison of small mammal communities on restored and remnant prairies in northwestern Minnesota. Annual Meeting of the Minnesota Chapter of the Wildlife Society Poster Session. 15 February 2017.
+
+Teaching experience
 ======
 * University of Colorado, Boulder
+  * Fall 2019 - EBIO 3240 - Animal Behavior TA
   * Fall 2018 - Developed and implemented a one-day hands-on course for cluster computing with sequence data targeted at computational beginners.
 
 * Concordia College - Moorhead, MN
@@ -35,7 +46,7 @@ Teaching
   * Spring 2015 - Calculus II Teaching Assistant - MATH 122
   * Fall 2014 - Calculus I Class Tutor - MATH 121
 
-Funding
+<!-- Funding
 ======
 * CU Retired Faculty Association Carl Kisslinger Research Award - 2018
 * American Society of Mammalogists Grants-in-Aid of Research - 2019
@@ -48,7 +59,7 @@ Study systems
 * Carrion beetles
 * Bryozoans
 * Microbes
-* Sensitive plants - *Mimosa pudica*
+* Sensitive plants - *Mimosa pudica* -->
 
 Skills
 ======
