@@ -20,7 +20,7 @@ Education
 
 Publications
 ======
- Vagle, G. L., and C. M. McCain. 2020. Natural population variability may be masking the more-individuals hypothesis. *Ecology*. https://doi.org/10.1002/ecy.3035
+ **Vagle, G. L.**, and C. M. McCain. 2020. Natural population variability may be masking the more-individuals hypothesis. *Ecology* 101(5):e03035. https://doi.org/10.1002/ecy.3035
 
 Selected presentations
 ======
