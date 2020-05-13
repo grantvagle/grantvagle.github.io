@@ -6,6 +6,16 @@ excerpt:
 author_profile: true
 
 ---
+My research focuses on the patterns of biodiversity and the processes that drive those patterns. I utilize computational and quantitative methods in much of my work from simulations to statistical analyses to sequence data analysis. Brief summaries of my projects can be found below.
+
+
+
+Natural population variability may be masking the more-individuals hypothesis
+======
+
+The more-individuals hypothesis (MIH) is a proposed mechanism (one of many) explaining the large-scale relationship between primary productivity and species diversity (productivity -> food resources -> abundance -> species diversity). While the MIH has been tested extensively in observational and experimental studies, the support is quite mixed across the literature. My work uses computer simulations (coded in R) to test whether natural population variation could be masking an underlying MIH relationship. Short answer: it is entirely possible that the MIH is present in nature yet undetected in studies that found no relationship. Long-term studies are required to adequately test the MIH, especially in systems that are prone to relatively high population variability. ([Vagle & McCain. 2020.](https://doi.org/10.1002/ecy.3035))
+
+
 
 Carrion beetles and their food
 ======
@@ -19,7 +29,6 @@ Carrion beetles (Coleoptera: Silphidae) feed and reproduce on vertebrate (especi
 2. I'm testing whether carrion beetles can be used as 'wildlife sensors' for mammal species. If we can detect mammal species using carrion beetle gut contents, longer-term, larger-scale studies can be conducted for the same field effort.
 
 To answer these questions, I employ a marker gene sequencing methodology that enables the identification of mammalian DNA from carrion beetle gut contents.
-
 
 
 This work is taking place with specimens from across the Front Range, the western San Juans, and Mesa Verde National Park (through a partnership with the CU Museum of Natural History).
@@ -41,12 +50,7 @@ This work is funded by the Carl Kisslinger grant from the CU Retired Faculty Ass
 </figure>
 
 
-More-individuals hypothesis simulations
-======
 
-The more-individuals hypothesis (MIH) is a proposed mechanism explaining the large-scale relationship between primary productivity and species diversity. While the MIH has been tested extensively in observational and experimental studies, the support is quite mixed across the literature. My work uses computer simulations (coded in R) to test whether natural population variation could be masking an underlying MIH relationship. Short answer: it is entirely possible that the MIH is present in nature yet undetected in studies that found no relationship. Long-term studies are required to adequately test the MIH, especially in systems that are prone to relatively high population variability.
-
-[https://doi.org/10.1002/ecy.3035](https://doi.org/10.1002/ecy.3035)
 
 
 
