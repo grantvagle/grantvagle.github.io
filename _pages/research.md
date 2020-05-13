@@ -46,7 +46,7 @@ More-individuals hypothesis simulations
 
 The more-individuals hypothesis (MIH) is a proposed mechanism explaining the large-scale relationship between primary productivity and species diversity. While the MIH has been tested extensively in observational and experimental studies, the support is quite mixed across the literature. My work uses computer simulations (coded in R) to test whether natural population variation could be masking an underlying MIH relationship. Short answer: it is entirely possible that the MIH is present in nature yet undetected in studies that found no relationship. Long-term studies are required to adequately test the MIH, especially in systems that are prone to relatively high population variability.
 
-https://doi.org/10.1002/ecy.3035
+[https://doi.org/10.1002/ecy.3035](https://doi.org/10.1002/ecy.3035)
 
 
 
