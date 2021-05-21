@@ -26,6 +26,8 @@ Selected presentations
 ======
  **Vagle, G. L.** and C. M. McCain. Natural population variability may be masking the more-individuals hypothesis. Ecological Society of America annual meeting, Salt Lake City, UT (virtual). Oral presentation. 3 Aug 2020.
 
+ Spiers, A., K. Davies, M. Joseph, B. Melbourne, C. Torrens, **G. Vagle**. NEON: Forecasting carabid beetle dynamics across forest microenvironments. Ecological Society of America annual meeting, Salt Lake City, UT (virtual). Poster. 3 Aug 2020.
+
  **Vagle, G. L.**, and C. M. McCain. Natural population variation may be masking the more-individuals hypothesis. American Society of Mammalogists Annual Meeting, Washington, D.C. 1 July 2019.
 
  **Vagle, G. L.**. Simulating the more-individuals hypothesis. Guild of Rocky Mountain Ecologists and Evolutionary Biologists Annual Meeting. 23 September 2018.
