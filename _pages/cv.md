@@ -14,29 +14,33 @@ redirect_from:
 
 Education
 ======
- Ph.D Student, Ecology and Evolutionary Biology, Interdisciplinary Quantitative Biology, University of Colorado, Boulder
+ **Ph.D Candidate**. Ecology and Evolutionary Biology; Interdisciplinary Quantitative Biology. University of Colorado, Boulder.
 
- B.A. in Biology and Mathematics, Concordia College - Moorhead, MN, 2017
+ **B.A. in Biology and Mathematics**. Concordia College at Moorhead, MN. Received May 2017.
 
 Publications
 ======
- **Vagle, G. L.**, and C. M. McCain. 2020. Natural population variability may be masking the more-individuals hypothesis. *Ecology* 101(5):e03035. https://doi.org/10.1002/ecy.3035
+ **Vagle, G. L.**, and C. M. McCain. 2020. Natural population variability may be masking the more-individuals hypothesis. *Ecology* 101(5):e03035. [https://doi.org/10.1002/ecy.3035](https://doi.org/10.1002/ecy.3035)
 
 Selected presentations
 ======
+ **Vagle, G. L.** and C. M. McCain. Natural population variability may be masking the more-individuals hypothesis. Ecological Society of America annual meeting, Salt Lake City, UT (virtual). Oral presentation. 3 Aug 2020.
+
  **Vagle, G. L.**, and C. M. McCain. Natural population variation may be masking the more-individuals hypothesis. American Society of Mammalogists Annual Meeting, Washington, D.C. 1 July 2019.
 
  **Vagle, G. L.**. Simulating the more-individuals hypothesis. Guild of Rocky Mountain Ecologists and Evolutionary Biologists Annual Meeting. 23 September 2018.
 
  McCreery, K. P., D. M. Nguyen, S. Nordstrom, M. Smallegan, **G. L. Vagle**, C. Walsh, and A. Watson. Do interdisciplinary institutes make science more interdisciplinary? Bioinformatics and Data Science Supergroup, Univ. of Colorado. 2 April 2018.
 
- **Vagle, G. L.**. Colonial evolutionary strategies in a mid-Cretaceous Bryozoan *Wilbertopora listokinae*. Interdisciplinary Quantitative Biology Rotation Talks, Univ. of Colorado. 21 February 2018.
+ <!--**Vagle, G. L.**. Colonial evolutionary strategies in a mid-Cretaceous Bryozoan *Wilbertopora listokinae*. Interdisciplinary Quantitative Biology Rotation Talks, Univ. of Colorado. 21 February 2018. -->
 
  **Vagle, G. L.**., C. Whitten, D. Braund, J. Watson, A. Schulz, and J.C. Whittaker. Comparison of small mammal communities on restored and remnant prairies in northwestern Minnesota. Annual Meeting of the Minnesota Chapter of the Wildlife Society Poster Session. 15 February 2017.
 
 Teaching experience
 ======
 University of Colorado, Boulder
+* Spring 2021 - Principles of Ecology TA - EBIO 2040
+* Fall 2020 - Mammalogy TA - EBIO 4760/5760
 * Spring 2020 - Principles of Ecology TA - EBIO 2040
 * Fall 2019 - Animal Behavior TA - EBIO 3240
 * Fall 2018 - Developed and implemented a one-day hands-on course for cluster computing with sequence data targeted at computational beginners.
@@ -53,13 +57,15 @@ Concordia College - Moorhead, MN
 * American Society of Mammalogists Grants-in-Aid of Research - 2019
 * EBIO Department Research Grant - 2019
 * CU Museum of Natural History Research Grant - 2019
+-->
 
+<!--
 Study systems
 ======
-* Small mammals
-* Carrion beetles
+* Mammals
+* Insects
+* Lichens
 * Bryozoans
-* Microbes
 * Sensitive plants - *Mimosa pudica*
 -->
 
@@ -70,5 +76,15 @@ Skills
   * Python
   * Matlab
   * bash
-* Geographic Information Systems - ArcGIS
-* Marker gene amplification and sequencing techniques
+* Geographic Information Systems - ArcGIS, R
+
+<!--
+Skills
+======
+* Coding
+  * R (6 yrs exp.)
+  * Python (1-2 yrs exp.)
+  * Matlab (1 yr exp.)
+  * bash (1 yr exp.)
+* Geographic Information Systems - ArcGIS, R (2 yrs exp.)
+-->
