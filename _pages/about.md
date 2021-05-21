@@ -16,9 +16,9 @@ I have a passion for teaching others about the natural world. Direct experience 
 
 
 
-
-Grant L. Vagle (he/him)
-[McCain Mountain Lab](https://spot.colorado.edu/~mccainc/ "McCain Lab")
-[Ecology and Evolutionary Biology Department](https://colorado.edu/ebio "CU - EBIO")
-[Interdisciplinary Quantitative Biology](https://www.colorado.edu/certificate/iqbiology/ "IQ Biology")
-University of Colorado, Boulder
+--
+Grant L. Vagle (he/him)  
+[McCain Mountain Lab](https://spot.colorado.edu/~mccainc/ "McCain Lab")  
+[Ecology and Evolutionary Biology Department](https://colorado.edu/ebio "CU - EBIO")  
+[Interdisciplinary Quantitative Biology](https://www.colorado.edu/certificate/iqbiology/ "IQ Biology")  
+University of Colorado, Boulder  
