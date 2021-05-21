@@ -1,21 +1,24 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "My work"
+excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
+Graduate student ecologist. Quantitative ecologist. Aspiring mammalogist and naturalist.
 
-I am passionate about the incredible diversity of life on Earth and love experiencing it in-person, whether that be out in nature, in museums, or in the lab. I study large-scale biodiversity patterns, with a focus on the mammals and carrion beetles of the mountains of Colorado.
+Broadly, my research focuses on large scale patterns of biodiversity. More specifically, I study spatial and temporal variation in multiple forms of species rarity (small range, low abundance, habitat specialists). I use quantitative methods (statistical and null models, computer simulations, etc.) in all aspects of my work. I work with existing large-scale datasets of mammals, insects, and lichens in both the Southern Rocky Mountains (mammals, insects) and the Southern Appalachians (lichens) to answer questions related to patterns of species rarity. In the field, I've spent lots of time small mammal trapping and have done some work collecting insects, too.
 
-I'm a Ph.D. student in the [McCain Mountain Lab](https://spot.colorado.edu/~mccainc/ "McCain Lab") in the [Ecology and Evolutionary Biology Department](https://colorado.edu/ebio "CU - EBIO") at the University of Colorado, Boulder. I'm also a member of the [Interdisciplinary Quantitative Biology](https://www.colorado.edu/certificate/iqbiology/ "IQ Biology") graduate program with the [BioFrontiers Institute](https://www.colorado.edu/biofrontiers/ "BioFrontiers").
+I have a passion for teaching others about the natural world. Direct experience with the local animals, plants, and ecosystems, with all of their complexity and diversity, is my preferred way to teach. Field labs and studying museum specimens both bring that complexity directly to the student. I have experience teaching both Ecology and Mammalogy, and I've found that these direct connections to local ecosystems have been the most useful and rewarding for my students.
 
-<figure>
-  <img src="/images/me_at_rainbowlks.jpg" alt="Me at mountain lake"
-	 title="" width="450" height="300"
-   align="center"
-  />
-</figure>
+
+
+
+Grant L. Vagle (he/him)
+[McCain Mountain Lab](https://spot.colorado.edu/~mccainc/ "McCain Lab")
+[Ecology and Evolutionary Biology Department](https://colorado.edu/ebio "CU - EBIO")
+[Interdisciplinary Quantitative Biology](https://www.colorado.edu/certificate/iqbiology/ "IQ Biology")
+University of Colorado, Boulder
