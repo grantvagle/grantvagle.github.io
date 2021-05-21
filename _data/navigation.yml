@@ -15,10 +15,10 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  - title: "About me"
-    url: /about/
+  #- title: "About me"
+  #  url: /about/
 
-  - title: "Research"
+  - title: "My work"
     url: /research/
 
   - title: "CV"
